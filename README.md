@@ -9,3 +9,8 @@ ___
 - 🌱 I’m currently learning Javascript, Algorithms and Good Practices.
 - 💬 Ask me about graphic design, UX, UI or Agile.
 - ⚡ Fun fact: The origin of my name came across the movie Lion King 😄
+
+___
+####  Holopin Badges 🏷️
+
+[![@nailabb's Holopin board](https://holopin.io/api/user/board?user=nailabb)](https://holopin.io/@nailabb)
